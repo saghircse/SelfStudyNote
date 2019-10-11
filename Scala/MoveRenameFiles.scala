@@ -9,10 +9,6 @@ import java.util.Date
 object MoveRenameFiles {
   
   def main(args: Array[String]): Unit = {
-    //val src_file="/home/hadoop1/Documents/TEST/SRC/f1.txt"
-    //val tgt_file="/home/hadoop1/Documents/TEST/TGT/f1_xyz.txt"
-    //moveRenameFile(src_file,tgt_file)
-    //copyRenameFile(src_file,tgt_file)
     
     val src_path="/home/hadoop1/Documents/TEST/SRC" // Give your source directory
     val tgt_path="/home/hadoop1/Documents/TEST/TGT" // Give your target directory
